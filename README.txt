@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/rolia17/pen/xVzzNd.
-
- 
+Prévia do projeto do ffmpeg e nodejs.
